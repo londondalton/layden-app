@@ -1,1 +1,1 @@
-node idndex.js
+node index.js
